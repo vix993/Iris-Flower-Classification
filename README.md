@@ -7,7 +7,4 @@ Octave: Equation based implementation of logistic regression, using the followin
 
 `https://medium.com/@pranav_suresh/iris-classification-using-logistic-regression-using-octave-873bca96ec5b`
 
-<img src="./images/iris.jpg" width="150">
-*The Iris flower classification*
-
-is a classic Machine Learning problem. I decided to use this problem as a way to apply what I have learnt.
+<img src="./images/iris.jpg" width="150"> *The Iris flower classification* is a classic Machine Learning problem. I decided to use this problem as a way to apply what I have learnt.
