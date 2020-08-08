@@ -14,9 +14,9 @@ The course is incredibly compelling, however I am also interested in experimenti
 
 Tensorflow.js: Building the Neural Network using compact javascript code.
 
-cd ´./tensorflowJs/´,
+cd `./tensorflowJs/`,
 
-run ´node ./generateTest.js´ to generate the training set, then ´node ./index.js´ to run the application.
+run `node ./generateTest.js` to generate the training set, then `node ./index.js` to run the application.
 
 Octave: Equation based implementation of logistic regression, using the following article as reference:
 
