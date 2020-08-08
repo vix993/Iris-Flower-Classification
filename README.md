@@ -1,4 +1,6 @@
+<p align="center"
 # Iris Flower Classification
+</p>
 
 
 The Iris flower classification using octave (currently implementing) and tensorflow.js.
