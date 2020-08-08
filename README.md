@@ -4,7 +4,9 @@ Iris Flower Classification
 <p align="center">
 <img src="./images/iris.jpg" width="150"> 
 </p>
-The Iris flower classification using octave (currently implementing) and tensorflow.js.
+<h3 align="center">
+  The Iris flower classification using octave (currently implementing) and tensorflow.js.
+</h3>
 
 # *The Iris flower classification*
 
