@@ -1,11 +1,10 @@
 <h1 align="center">
 Iris Flower Classification
 </h1>
-
-
-The Iris flower classification using octave (currently implementing) and tensorflow.js.
-
+<p align="center">
 <img src="./images/iris.jpg" width="150"> 
+</p>
+The Iris flower classification using octave (currently implementing) and tensorflow.js.
 
 # *The Iris flower classification*
 
