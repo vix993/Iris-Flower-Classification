@@ -10,6 +10,9 @@ The Iris flower classification using octave (currently implementing) and tensorf
 is a classic Machine Learning problem.
 I decided to use this problem as a way to apply what I have learnt.
 I am currently following the Coursera Machine Learning Material by Andrew Ng from Stanford University.
+The course is incredibly compelling, however I am also interested in experimenting with more recent technologies and executing alternative application methods.
+
+Tensorflow.js: Building the Neural Network using compact javascript code.
 
 Octave: Equation based implementation of logistic regression, using the following article as reference:
 
